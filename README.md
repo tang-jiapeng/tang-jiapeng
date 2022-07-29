@@ -27,7 +27,7 @@
 
 <div align="center">
   <img  height="137px"  alt="Wraith_Fiee's github stats"       
-      src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&show_icons=true&theme=algolia&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&count_private=true" />
   <img  height="137px" alt="Wraith_Fiee's github top-langs"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
