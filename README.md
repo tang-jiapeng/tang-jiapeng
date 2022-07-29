@@ -27,8 +27,10 @@
 <!-- GitHub数据统计 -->
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img  height="137px"  alt="Wraith_Fiee's github stats"       
+      src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&show_icons=true&theme=algolia&count_private=true" />
+  <img  height="137px" alt="Wraith_Fiee's github top-langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
