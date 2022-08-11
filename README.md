@@ -21,22 +21,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-<div align="right">
-  <img  height="137px"  alt="Wraith_Fiee's github stats"       
-      src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />
-<!--   <img height="137px" alt="Wraith_Fiee's github top-langs"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&hide_title=true&hide Roff,Gnuplot&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-</div>
-<br>
+
 <!-- GitHub数据统计 -->
 
-<!-- <div align="right">
+<div align="center">
   <img  height="137px"  alt="Wraith_Fiee's github stats"       
-      src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />
-<!--   <img height="137px" alt="Wraith_Fiee's github top-langs"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&hide_title=true&hide Roff,Gnuplot&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+      src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />   
+   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
-<br> -->
+<br> 
+
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tangjp-wraith&theme=xcode" /> </div>
 
