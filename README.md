@@ -24,7 +24,7 @@
 
 <!-- GitHub数据统计 -->
 
-<div align="center">
+<div align="right">
   <img  height="137px"  alt="Wraith_Fiee's github stats"       
       src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />
 <!--   <img height="137px" alt="Wraith_Fiee's github top-langs"
