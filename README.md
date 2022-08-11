@@ -1,6 +1,5 @@
 # Hi there 👋
-
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p>  开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获。</p>
 
 💪 正在学习: 
@@ -27,7 +26,8 @@
 <div align="center">
   <img  height="137px"  alt="Wraith_Fiee's github stats"       
       src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />   
-   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+   <img height="137px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 <br> 
 
