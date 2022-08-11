@@ -26,8 +26,6 @@
 <div align="center">
   <img  height="137px"  alt="Wraith_Fiee's github stats"       
       src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />   
-   <img height="137px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 </div>
 <br> 
 
