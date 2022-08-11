@@ -2,7 +2,7 @@
 
 <p>  开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获。</p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 💪 正在学习: 
 
    &emsp;
@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 <div align="left">
-  <img  height="137px" width="300px"  alt="Wraith_Fiee's github stats"       
+  <img  height="137px" width="320px"  alt="Wraith_Fiee's github stats"       
       src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />   
 </div>
 
