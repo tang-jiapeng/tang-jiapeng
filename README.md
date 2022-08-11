@@ -21,14 +21,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-![Notion](https://img.shields.io/badge/-Notion-red)
 
 <!-- GitHub数据统计 -->
 
 <div align="center">
   <img  height="137px"  alt="Wraith_Fiee's github stats"       
       src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />
-  <img  height="137px" alt="Wraith_Fiee's github top-langs"
+  <img height="137px" alt="Wraith_Fiee's github top-langs"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&hide_title=true&hide Roff,Gnuplot&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
