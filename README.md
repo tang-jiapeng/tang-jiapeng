@@ -38,8 +38,4 @@
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
-<!-- metrics 基础资料 -->
-
-![Metrics](https://metrics.lecoq.io/Tangjp-wraith?template=classic&languages=1&isocalendar=1&achievements=1&introduction=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.ignored=Roff%2CGnuplot&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=325&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FShanghai)
