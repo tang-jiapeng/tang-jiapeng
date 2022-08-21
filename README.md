@@ -1,6 +1,5 @@
 # Hi there 👋
 
-<p>  开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获。</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 💪 正在学习: 
