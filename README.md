@@ -1,6 +1,8 @@
 # Hi there 👋
-
-
+<table>
+   <center>悟已往之不谏，知来者之可追</center><br>
+   <center>实迷途其未远，觉今是而昨非</center>
+<table>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 💪 正在学习: 
 
