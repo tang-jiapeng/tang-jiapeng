@@ -32,8 +32,8 @@
 </div>
 
 
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tangjp-wraith&theme=xcode" /> </div>
+<!-- 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Tangjp-wraith&theme=xcode" /> </div> -->
 
 <!-- just img -->
 
