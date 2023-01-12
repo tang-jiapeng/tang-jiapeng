@@ -26,7 +26,7 @@
 ![Obsidian](https://img.shields.io/badge/-Obsidian-yellow?style=flat-square&logo=Obsidian)
 
 <div align="left">
-  <img  height="137px" width="320px"  alt="Wraith_Fiee's github stats"       
+  <img  height="137px" width="320px"  alt="Roc's github stats"       
       src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&count_private=true&show_icons=true&theme=algolia&count_private=true" />   
 </div>
 
