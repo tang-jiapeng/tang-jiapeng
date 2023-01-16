@@ -18,11 +18,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-3DDC84?style=flat-square&logo=CLion&logoColor=white)   
-
    &emsp; 
 ![VsCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![GoLand](https://img.shields.io/badge/GoLand-3D4C84?style=flat-square&logo=GoLand&logoColor=blue)   
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-yellow?style=flat-square&logo=Obsidian)
 
 <div align="left">
