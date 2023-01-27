@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jiapeng Tang, a passionate C++ learner.
+### 👋Hi there, I'm Jiapeng Tang, a passionate C++ learner.
 
 - 🌱 I'm best at C++. Also, know a little Golang.
 - 💻 Usually use Visual Studio Code, coding in Linux/WSL2.  
