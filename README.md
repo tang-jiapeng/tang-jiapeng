@@ -1,6 +1,6 @@
 ### 👋Hi there. I'm Jiapeng Tang, a passionate C++ learner.
 
-- 🌱 I know nothing about C++. Also, know a little Golang.
+- 🌱 I know a little about C++/Golang.
 - 💻 Usually use Visual Studio Code, coding in Linux/WSL2.  
 - 🔭 Bachelor of Software Engineering, China University of Petroleum(East China), 2020-2024. 
 - 📫 Reach me at: tangjiapeng0215@gmail.com.
