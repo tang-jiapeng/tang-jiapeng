@@ -5,4 +5,4 @@
 - 🔭 Bachelor of Software Engineering, China University of Petroleum(East China), 2020-2024. 
 - 📫 Reach me at: tangjiapeng0215@gmail.com.
 - 📈 My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Tangjp-wraith&show_icons=true&theme=gotham" alt="Tangjp-wraith" />
+[![](https://raw.githubusercontent.com/Tangjp-wraith/Tangjp-wraith/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/Tangjp-wraith?tab=repositories)
