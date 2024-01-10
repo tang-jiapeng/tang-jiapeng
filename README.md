@@ -1,8 +1,5 @@
-### 👋Hi there. I'm Jiapeng Tang, a passionate C++ learner.
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=👋Hi there. I'm Jiapeng Tang.&center=true&size=27"> </a> </h1>
 
-- 🌱 I know a little about C++/Golang.
-- 💻 Usually use Visual Studio Code, coding in Linux/WSL2.  
-- 🔭 Bachelor of Software Engineering, China University of Petroleum(East China), 2020-2024. 
-- 📫 Reach me at: tangjiapeng0215@gmail.com.
-- 📈 My Github Stats
-[![](https://raw.githubusercontent.com/Tangjp-wraith/Tangjp-wraith/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/Tangjp-wraith?tab=repositories)
+- 🌱 I know a little about C/C++/Go/Js.
+                            
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tangjp-wraith&layout=compact&hide_title=true&hide_border=true)](https://github.com/Tangjp-wraith/github-readme-stats)
